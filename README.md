@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sheetal59
-- 👀 I’m interested in web development, python and graphic designing.
-- 🌱 I’m currently learning frontend development and python
+- 👀 I’m interested in Machine Learning and Data Science
+- 🌱 Skills:- Python, C++, HTML, CSS, JavaScript, Node.js, jQuery, Data Science, ML Basics, UX/UI design.
 - 📫 How to reach me - instagram @ _sheetal05__
 
 <!---
