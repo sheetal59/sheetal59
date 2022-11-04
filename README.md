@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @sheetal59
-- 👀 I’m interested in Machine Learning and Data Science
-- 🌱 Skills:- Python, C++, HTML, CSS, JavaScript, Node.js, jQuery, Data Science, ML Basics, UX/UI design.
-- 📫 How to reach me - instagram @ _sheetal05__
 
+<h1 align="center"> Hello, Myself Sheetal <img src="https://media.tenor.com/Ej3BJBhwt_0AAAAM/cute-kitty.gif" style="height:75px;width:75px"></h1>
+<h3 align="center">I am a Web Developer, Data Scientist, Python and Java programmer.</h3>
+<ul>
+ <li> 👀 I’m interested in Machine Learning and Data Science</li>
+ <li>🌱 Skills:- Python, C++, HTML, CSS, JavaScript, Node.js, jQuery, Data Science, Machine Larning, UX/UI design, Java, Tableau, pytorch.</li>
+ 
 <!---
 sheetal59/sheetal59 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -48,5 +50,6 @@ You can click the Preview link to take a look at your changes.
  <img src="https://activity-graph.herokuapp.com/graph?username=sheetal59&theme=redical">
 </p> 
 <hr>
+<img width="100px" align="center" src="https://komarev.com/ghpvc/?username=your-github-sheetal59&style=flat-square&color=232323">
 
  
