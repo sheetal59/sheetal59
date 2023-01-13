@@ -1,58 +1,59 @@
-
-<h1 align="center"> Hello, Myself Sheetal <img src="https://media.tenor.com/Ej3BJBhwt_0AAAAM/cute-kitty.gif" style="height:75px;width:75px"></h1>
-<h3 align="center">I am a Web Developer, Data Scientist, Python and Java programmer.</h3>
-<ul>
- <li> 👀 I’m interested in Machine Learning and Data Science</li>
- <li>🌱 Skills:- Python, C++, HTML, CSS, JavaScript, Node.js, jQuery, Data Science, Machine Larning, UX/UI design, Java, Tableau, pytorch.</li>
- 
-<!---
-sheetal59/sheetal59 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/sheetal05/">
- <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sheetal05/"/>
-</a>
-<a href="mailto: sheetalshreya05@gmail.com">
- <img src="https://img.shields.io/badge/-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vaibhavmishra658@gmail.com"/>
-</a>
- <a href="https://instagram.com/_sheetal05__">
- <img src="https://img.shields.io/badge/-Instagram-darkgreen?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_sheetal05__"/>
-</a>
- <a href="https://twitter.com/Sheetal70704521">
- <img src="https://img.shields.io/badge/-twitter-purple?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Sheetal70704521"/>
-</a>
+<div align="center">
+   <h1>Hi, I am Sheetal Shreya </h1>
+   <p align="center">
+  <img width="300" src="https://media4.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif?cid=ecf05e47a387tsd8zxy1hw368egf3m418r0r09bu0itqy0ba&rid=giphy.gif&ct=g">
 </p>
 
-<h2 align="center">
-  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
-</h2>
-<p align="center">
-  <img src="https://github.com/sheetal59/sheetal59/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-
-</p>
-
-<h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-</h2>
  
-<br>
 
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=sheetal59&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sheetal59&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
-</p>
 
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sheetal59&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
+### I am a Web developer, Java Programmer, Data Science and ML enthusiast🚀!!
 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=sheetal59&theme=redical">
-</p> 
-<hr>
-<img width="100px" align="center" src="https://komarev.com/ghpvc/?username=your-github-sheetal59&style=flat-square&color=232323">
 
- 
+
+
+
+
+
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sheetal59&theme=midnight-purple)](https://git.io/streak-stats)
+   
+   
+##   GitHub Stats📊
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheetal59&theme=radical)
+   
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sheetal59&theme=moonlight)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sheetal59&theme=moonlight)
+
+
+
+
+
+##   <i>Follow me:</i><br>
+   
+<a href="https://linktr.ee/sheetal" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=black"
+img height="21" alt="Linktree"></a>
+   
+   
+
+<a href="https://www.linkedin.com/in/sheetal05/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/_sheetal05__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://twitter.com/sheetal70704521" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="mailto:sheetalshreya05@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"></a>
+
+   
+   
+<a href="https://www.hackerrank.com/sheetal05" target="_blank"><img src=	"https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" img height="21" alt="Hackerrank"></a>
+<a href="https://leetcode.com/sheetalshreya05/" target="_blank"><img src=	"https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" img height="21" alt="Leetcode"></a>
+
+<a href="https://www.codechef.com/users/sheetal_5" target="_blank"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" img height="21" alt="Codechef" style="margin-bottom: 2px;" /></a> 
+   
+</div>
+
+  
+  
+  
+   ##
+![](https://komarev.com/ghpvc/?username=sheetal59&color=blue) 
