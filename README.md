@@ -15,7 +15,7 @@
 
 
 
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sheetal59&theme=midnight-purple)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=sheetal59&theme=python-dark)](https://git.io/streak-stats)
    
    
 ##   GitHub Stats📊
