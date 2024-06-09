@@ -29,7 +29,7 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sheetal59-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sheetal59&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ##   <i>Follow me:</i><br>
    
