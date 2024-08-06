@@ -7,7 +7,7 @@
  
 
 
-### I am a Web developer, Java Programmer, Data Science and ML enthusiast🚀!!
+### I am a Data Analyst, Web developer, Java Programmer, Data Science and ML enthusiast🚀!!
 
 
 
